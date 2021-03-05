@@ -1,6 +1,7 @@
 from tkinter import *
 
 window=Tk()
+window.iconbitmap("icon.ico")
 window.title("Encode")
 window.geometry("400x450")
 
